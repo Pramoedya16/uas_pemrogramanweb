@@ -1,4 +1,4 @@
-#Aplikasi Pemesanan Tiket Bus Online (PHP, MySQL, Css,javascript)
+#Aplikasi Pemesanan Tiket TRAVEL Online (PHP, MySQL, Css,javascript)
 Login pengguna:
 
 Administrator:
